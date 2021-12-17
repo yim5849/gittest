@@ -8,6 +8,7 @@ public class Run {
 		
 		int age=29;
 		String address="경기도 광명시";
+		String name="양인모";
 
 	}
 
